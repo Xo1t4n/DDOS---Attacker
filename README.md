@@ -8,6 +8,6 @@ by overwhelming it with traffic from multiple sources. They target a wide variet
 
 # git Clone https://github.com/Xo1t4n/DDOS---Attacker
 # cd DDos-Attack
-# chmod +x ddos-attack.py
-# python ddos-attack.py
+# chmod +x DDOS---Attacker.py
+# python DDOS---Attacker.py
 
